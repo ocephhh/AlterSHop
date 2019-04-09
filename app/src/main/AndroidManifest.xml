@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.yosepheldwin.altershop">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".SplasshScreen"
+            android:theme="@style/SplashTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Login" />
+        <activity android:name=".Intent.Alterticket.AlterTicket" />
+        <activity android:name=".Intent.Alterticket.Tiket1" />
+        <activity android:name=".Intent.Alterticket.Totaltiket1" />
+        <activity android:name=".AlterCourse.AlterCourse" />
+        <activity android:name=".AlterMerchandise.AlterMerchandise" />
+        <activity android:name=".AlterFest.AlterFest" />
+        <activity android:name=".AlterMerchandise.Tshirt" />
+        <activity android:name=".AlterCourse.WebsiteCourse" />
+        <activity android:name=".Intent.Alterticket.Tiket2" />
+        <activity android:name=".Intent.Alterticket.Tiket3" />
+        <activity android:name=".Intent.Alterticket.Tiket4" />
+        <activity android:name=".Intent.Alterticket.Tiket5" />
+        <activity android:name=".Intent.Alterticket.TotalTiket2" />
+        <activity android:name=".Intent.Alterticket.TotalTiket3" />
+        <activity android:name=".Intent.Alterticket.TotalTiket4" />
+        <activity android:name=".Intent.Alterticket.TotalTiket5" />
+        <activity android:name=".AlterCourse.AndroidCourse" />
+        <activity android:name=".AlterCourse.GameCourse" />
+        <activity android:name=".AlterMerchandise.Mug" />
+        <activity android:name=".AlterMerchandise.Tupperware" />
+        <activity android:name=".AlterMerchandise.Merchand" />
+        <activity android:name=".AlterMerchandise.HargaBaju.KaosOblong"></activity>
+    </application>
+
+</manifest>

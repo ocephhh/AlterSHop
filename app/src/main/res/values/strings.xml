@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AlterShop</string>
+
+    <string name="titleweb">Website Course</string>
+    <string name="descriptionweb">Website Course ini berisikan 3 tingkatan dari Web Noob, Web Intermediate hingga Web Pro. Lorem ipsum dolor sit amet, consectetur adipiscing elit.  Cras rhoncus tempus mauris vehicula euismod. Ut blandit aliquam faucibus. Praesent euismod nunc eu nisi aliquet, sit amet elementum justo cursus. Proin id arcu suscipit, porttitor tortor mattis, porta arcu. Donec vitae eros viverra, feugiat arcu et, volutpat nunc. Nulla scelerisque in dolor ut posuere. Sed vitae mauris in sapien ullamcorper mollis. Pellentesque lobortis odio non lectus varius blandit.</string>
+
+    <string name="android">Android Course</string>
+    <string name="deskripsiandroid">Android Course ini berisikan 3 tingkatan dari Android Noob, Android Intermediate hingga Android Pro. Lorem ipsum dolor sit amet, consectetur adipiscing elit.  Cras rhoncus tempus mauris vehicula euismod. Ut blandit aliquam faucibus. Praesent euismod nunc eu nisi aliquet, sit amet elementum justo cursus. Proin id arcu suscipit, porttitor tortor mattis, porta arcu. Donec vitae eros viverra, feugiat arcu et, volutpat nunc. Nulla scelerisque in dolor ut posuere. Sed vitae mauris in sapien ullamcorper mollis. Pellentesque lobortis odio non lectus varius blandit.</string>
+
+    <string name="game">Game Course</string>
+    <string name="deskripsigame">Game Course ini berisikan Lorem ipsum dolor sit amet, consectetur adipiscing elit.  Cras rhoncus tempus mauris vehicula euismod. Ut blandit aliquam faucibus. Praesent euismod nunc eu nisi aliquet, sit amet elementum justo cursus. Proin id arcu suscipit, porttitor tortor mattis, porta arcu. Donec vitae eros viverra, feugiat arcu et, volutpat nunc. Nulla scelerisque in dolor ut posuere. Sed vitae mauris in sapien ullamcorper mollis. Pellentesque lobortis odio non lectus varius blandit.</string>
+
+    <string name="title">Alter Fest</string>
+    <string name="description">Alter Fest merupakan sebuah kegiatan yang dilakukan oleh sebuah startup bernama Alter, Dalam kegiatan Alter Fest terdapat 3 bagian : 1. Website, 2. Android 3. Game.  Lorem ipsum dolor sit amet, consectetur adipiscing elit.  Cras rhoncus tempus mauris vehicula euismod. Ut blandit aliquam faucibus. Praesent euismod nunc eu nisi aliquet, sit amet elementum justo cursus. Proin id arcu suscipit, porttitor tortor mattis, porta arcu. Donec vitae eros viverra, feugiat arcu et, volutpat nunc. Nulla scelerisque in dolor ut posuere. Sed vitae mauris in sapien ullamcorper mollis. Pellentesque lobortis odio non lectus varius blandit.</string>
+</resources>

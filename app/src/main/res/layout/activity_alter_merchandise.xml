@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AlterMerchandise.AlterMerchandise">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_margin="20dp">
+
+            <android.support.v7.widget.AppCompatImageView
+                android:id="@+id/tshirt"
+                android:layout_marginTop="100dp"
+                android:layout_width="150dp"
+                android:layout_height="100dp"
+                android:layout_marginLeft="20dp"
+                android:src="@drawable/tshirt"
+                />
+
+            <android.support.v7.widget.AppCompatImageView
+                android:id="@+id/mug"
+                android:layout_marginTop="100dp"
+                android:layout_width="150dp"
+                android:layout_height="100dp"
+                android:src="@drawable/mug"
+                />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_margin="20dp">
+
+            <android.support.v7.widget.AppCompatImageView
+                android:id="@+id/tupperware"
+                android:layout_marginTop="40dp"
+                android:layout_width="150dp"
+                android:layout_height="100dp"
+                android:layout_marginLeft="20dp"
+                android:src="@drawable/tupperware"
+                />
+
+            <android.support.v7.widget.AppCompatImageView
+                android:id="@+id/merchandise"
+                android:layout_marginTop="40dp"
+                android:layout_width="150dp"
+                android:layout_height="100dp"
+                android:src="@drawable/merchandise"
+                />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>
